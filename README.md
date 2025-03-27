@@ -2,13 +2,15 @@
 A funny little binary game where you can learn to translate numbers to binary
 
 # Installation
-you have to install these packages with ``pip``:
+Download this repo with ``git clone https://github.com/h435er/binary_game/``
+cd in the directory
+Install these packages with ``pip``:
 ``curses``
 ``random``
 ``time``
 
 # Starting the game
-start the Game via python with: ``python b.py``
+Start the Game via python with: ``python b.py``
 
 # THANK YOU FOR PLAYING MY GAME!!!
 :)
